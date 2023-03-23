@@ -45,4 +45,4 @@ public class MaterialController : MonoBehaviour
 
 --- /code ---
   
-  **Tip:** You can use a different tag if you want objects other than the player to trigger the change. 
+**Tip:** You can use a different tag if you want objects other than the player to trigger the change. 
